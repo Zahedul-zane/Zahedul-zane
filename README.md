@@ -1,32 +1,25 @@
+<h1 align="center">Hi 👋, I'm Zahedul Islam</h1>
+<h3 align="center">👨‍💻Computer Science & Engineering Student</h3>
 
-for freelance work? do reach, [email](zizahed202@gmail.com) :)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zahedul-zane&label=Profile%20views&color=0e75b6&style=flat" alt="zahedul-zane" /> </p>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahedul-zane" alt="zahedul-zane" /></a> </p>
 
-```txt
-TypeScript   12 hrs 57 mins  ███████████████████████░░   91.67 %
-Markdown     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-YAML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-```
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!--END_SECTION:waka-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/zahedul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahedul islam" height="30" width="40" /></a>
+<a href="https://fb.com/zahedul991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zahedul991" height="30" width="40" /></a>
+<a href="https://instagram.com/zahed_ul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahed_ul1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@acadiora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@acadiora" height="30" width="40" /></a>
+</p>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zahedul-zane&show_icons=true&locale=en&layout=compact" alt="zahedul-zane" /></p>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zahedul-zane&show_icons=true&locale=en" alt="zahedul-zane" /></p>
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zahedul-zane&" alt="zahedul-zane" /></p>
