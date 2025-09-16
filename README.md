@@ -37,20 +37,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
 <div align="center">
-  <img height="200" src="![481993878_1174526074059846_4207271205527578166_n](https://github.com/user-attachments/assets/0fb4a514-19b4-498d-8e6d-cb9cd03481eb)
-"  />
+  <img height="200" src="https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/481993878_1174526074059846_4207271205527578166_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeHNo6_FtFBcyTLw9YKUURFz-6GRACoinV_7oZEAKiKdX1JdWfe1j3p_nngQ_60Mh1RkMDoyNvA8aS_LVDBbN166&_nc_ohc=v4hR0q25KFQQ7kNvwGe3TxV&_nc_oc=AdnBplaal5HpMiftqgbsNxr7JzrBe3ySvQvjaqjvBkCwE5lwzhq8AGlAvGp3D8s5NI8&_nc_zt=23&_nc_ht=scontent.fdac138-2.fna&_nc_gid=SwbgcLUGMxwcTsqh1UqMIg&oh=00_AfaiVflL6hNWk2orldztvXo9kCYum384Ld1r-o2Ql7usGw&oe=68CEFDEE"  />
 </div>
 
 ###
