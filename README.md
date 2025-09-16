@@ -45,3 +45,13 @@
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
+
+###
+
+<div align="center">
+  <img height="200" src="![481993878_1174526074059846_4207271205527578166_n](https://github.com/user-attachments/assets/0fb4a514-19b4-498d-8e6d-cb9cd03481eb)
+"  />
+</div>
+
+###
+
