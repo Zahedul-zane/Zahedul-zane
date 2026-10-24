@@ -9,12 +9,11 @@
 
 ## 🏅 My Badges
 
-<div align="center">
-  <!-- Custom 3D Coded SVG Badges -->
-  <img src="./assets/sql-badge.svg" alt="SQL 5 Star Badge" width="170" />
+<p align="center">
+  <img src="./sql-badge.svg" alt="SQL 5 Star Badge" width="170" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/academician-badge.svg" alt="Academician Badge" width="180" />
-</div>
+  <img src="./academician-badge.svg" alt="Academician Badge" width="180" />
+</p>
 
 <br/>
 
