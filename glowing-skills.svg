@@ -1,1 +1,172 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 340" width="100%" height="100%" fill="none">
+  <defs>
+    <!-- Intense Neon Glow Filter for Logos -->
+    <filter id="iconGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur1" />
+      <feGaussianBlur stdDeviation="8" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
 
+  <style>
+    .label {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #00F5D4;
+      text-anchor: middle;
+      filter: drop-shadow(0px 0px 5px rgba(0, 245, 212, 0.6));
+    }
+    .floating {
+      animation: floatPulse 3s ease-in-out infinite alternate;
+    }
+    @keyframes floatPulse {
+      0% { transform: translateY(0px); opacity: 0.9; }
+      100% { transform: translateY(-4px); opacity: 1; }
+    }
+  </style>
+
+  <g class="floating">
+    <!-- ==================== ROW 1 ==================== -->
+    <!-- 1. C -->
+    <g transform="translate(15, 10)">
+      <path d="M65,33 A14,14 0 1,0 65,53" stroke="#C084FC" stroke-width="5" stroke-linecap="round" filter="url(#iconGlow)" />
+      <text x="57" y="82" class="label">C</text>
+    </g>
+
+    <!-- 2. C++ -->
+    <g transform="translate(144, 10)">
+      <path d="M46,34 L37,43 L46,52 M68,34 L77,43 L68,52 M61,30 L53,56" stroke="#FB923C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" filter="url(#iconGlow)" />
+      <text x="57" y="82" class="label">C++</text>
+    </g>
+
+    <!-- 3. Python -->
+    <g transform="translate(273, 10)">
+      <g filter="url(#iconGlow)">
+        <path d="M56,26 C48,26 48,30 48,33 L48,38 L57,38 L57,40 L43,40 C39,40 37,43 37,48 C37,53 39,56 43,56 L47,56 L47,51 C47,47 50,45 53,45 L62,45 C65,45 67,43 67,40 L67,33 C67,29 64,26 56,26 Z" fill="#38BDF8" />
+        <path d="M58,58 C66,58 66,54 66,51 L66,46 L57,46 L57,44 L71,44 C75,44 77,41 77,36 C77,31 75,28 71,28 L67,28 L67,33 C67,37 64,39 61,39 L52,39 C49,39 47,41 47,44 L47,51 C47,55 50,58 58,58 Z" fill="#FACC15" />
+      </g>
+      <text x="57" y="82" class="label">Python</text>
+    </g>
+
+    <!-- 4. Java -->
+    <g transform="translate(402, 10)">
+      <g filter="url(#iconGlow)">
+        <path d="M55,25 C58,29 52,32 55,36 C57,33 61,30 58,26 M60,28 C62,31 58,34 60,37" stroke="#F87171" stroke-width="2.2" stroke-linecap="round" />
+        <path d="M45,41 L65,41 L63,51 C62,54 49,54 47,51 Z" fill="none" stroke="#F87171" stroke-width="2.2" />
+        <path d="M65,42 C69,42 69,48 64,48" stroke="#F87171" stroke-width="2.2" fill="none" />
+        <path d="M43,55 Q57,58 71,55" stroke="#F87171" stroke-width="2.2" stroke-linecap="round" />
+      </g>
+      <text x="57" y="82" class="label">Java</text>
+    </g>
+
+    <!-- 5. JavaScript -->
+    <g transform="translate(531, 10)">
+      <g filter="url(#iconGlow)">
+        <rect x="42" y="27" width="30" height="30" rx="6" fill="#FACC15" />
+        <text x="59" y="51" font-family="Segoe UI, sans-serif" font-size="14" font-weight="900" fill="#0F172A" text-anchor="middle">JS</text>
+      </g>
+      <text x="57" y="82" class="label">JavaScript</text>
+    </g>
+
+    <!-- 6. TypeScript -->
+    <g transform="translate(660, 10)">
+      <path d="M45,30 L69,30 M57,30 L57,55" stroke="#60A5FA" stroke-width="4.5" stroke-linecap="round" filter="url(#iconGlow)" />
+      <text x="57" y="82" class="label">TypeScript</text>
+    </g>
+
+    <!-- 7. React -->
+    <g transform="translate(789, 10)">
+      <g filter="url(#iconGlow)">
+        <circle cx="57" cy="42" r="3.5" fill="#22D3EE" />
+        <ellipse cx="57" cy="42" rx="18" ry="7" stroke="#22D3EE" stroke-width="2.2" />
+        <ellipse cx="57" cy="42" rx="18" ry="7" transform="rotate(60 57 42)" stroke="#22D3EE" stroke-width="2.2" />
+        <ellipse cx="57" cy="42" rx="18" ry="7" transform="rotate(120 57 42)" stroke="#22D3EE" stroke-width="2.2" />
+      </g>
+      <text x="57" y="82" class="label">React</text>
+    </g>
+
+    <!-- ==================== ROW 2 ==================== -->
+    <!-- 8. Node.js -->
+    <g transform="translate(15, 118)">
+      <g filter="url(#iconGlow)">
+        <polygon points="57,25 72,33 72,51 57,59 42,51 42,33" stroke="#4ADE80" stroke-width="2.8" fill="none" />
+        <text x="57" y="46" font-family="Segoe UI, sans-serif" font-size="11.5" font-weight="800" fill="#4ADE80" text-anchor="middle">JS</text>
+      </g>
+      <text x="57" y="82" class="label">Node.js</text>
+    </g>
+
+    <!-- 9. SQL -->
+    <g transform="translate(144, 118)">
+      <g filter="url(#iconGlow)">
+        <ellipse cx="57" cy="31" rx="14" ry="5.5" fill="#34D399" />
+        <path d="M43,34 C43,40 71,40 71,34 L71,42 C71,47 43,47 43,42 Z" fill="#34D399" />
+        <path d="M43,45 C43,50 71,50 71,45 L71,53 C71,58 43,58 43,53 Z" fill="#34D399" />
+      </g>
+      <text x="57" y="82" class="label">SQL</text>
+    </g>
+
+    <!-- 10. Docker -->
+    <g transform="translate(273, 118)">
+      <g filter="url(#iconGlow)" fill="#38BDF8">
+        <rect x="46" y="36" width="4.5" height="4.5" />
+        <rect x="51.5" y="36" width="4.5" height="4.5" />
+        <rect x="57" y="36" width="4.5" height="4.5" />
+        <rect x="51.5" y="30.5" width="4.5" height="4.5" />
+        <rect x="57" y="30.5" width="4.5" height="4.5" />
+        <path d="M39,42 L68,42 C71,42 74,40 76,37 C77,40 76,44 73,45 C71,53 64,56 54,56 C44,56 39,50 39,42 Z" />
+      </g>
+      <text x="57" y="82" class="label">Docker</text>
+    </g>
+
+    <!-- 11. FastAPI -->
+    <g transform="translate(402, 118)">
+      <polygon points="60,25 45,44 56,44 53,59 69,40 58,40" fill="#2DD4BF" filter="url(#iconGlow)" />
+      <text x="57" y="82" class="label">FastAPI</text>
+    </g>
+
+    <!-- 12. DSA -->
+    <g transform="translate(531, 118)">
+      <g filter="url(#iconGlow)">
+        <line x1="46" y1="33" x2="68" y2="33" stroke="#4ADE80" stroke-width="3.2" />
+        <line x1="46" y1="33" x2="57" y2="52" stroke="#4ADE80" stroke-width="3.2" />
+        <rect x="41" y="28" width="11" height="11" rx="2.5" fill="#4ADE80" />
+        <rect x="62" y="28" width="11" height="11" rx="2.5" fill="#4ADE80" />
+        <rect x="51.5" y="46.5" width="11" height="11" rx="2.5" fill="#4ADE80" />
+      </g>
+      <text x="57" y="82" class="label">DSA</text>
+    </g>
+
+    <!-- 13. HTML5 -->
+    <g transform="translate(660, 118)">
+      <g filter="url(#iconGlow)">
+        <polygon points="43,26 71,26 68,53 57,57 46,53" fill="#FB923C" />
+        <path d="M65,33 L49,33 L50,40 L64,40 L63,49 L57,51 L51,49 L51,45" stroke="#0F172A" stroke-width="2.6" fill="none" />
+      </g>
+      <text x="57" y="82" class="label">HTML5</text>
+    </g>
+
+    <!-- 14. CSS3 -->
+    <g transform="translate(789, 118)">
+      <g filter="url(#iconGlow)">
+        <polygon points="43,26 71,26 68,53 57,57 46,53" fill="#38BDF8" />
+        <path d="M49,33 L65,33 L64,40 L51,40 M64,40 L63,49 L57,51 L51,49 L51,45" stroke="#0F172A" stroke-width="2.6" fill="none" />
+      </g>
+      <text x="57" y="82" class="label">CSS3</text>
+    </g>
+
+    <!-- ==================== ROW 3 ==================== -->
+    <!-- 15. Cybersecurity -->
+    <g transform="translate(15, 226)">
+      <g filter="url(#iconGlow)">
+        <path d="M57,25 L71,30 L71,41 C71,50 64,55 57,58 C50,55 43,50 43,41 L43,30 Z" fill="#00F5D4" />
+        <path d="M57,28 L68,32 L68,41 C68,48 62,52 57,55 Z" fill="#0F172A" />
+      </g>
+      <text x="57" y="82" class="label">Cybersecurity</text>
+    </g>
+  </g>
+</svg>
