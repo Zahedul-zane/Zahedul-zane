@@ -28,6 +28,12 @@
 </div>
 
 ---
+## ⚡ The Engineering Forge
+
+<p align="center">
+  <img src="./glowing-skills.svg" alt="Glowing Transparent Tech Stack Badges" width="100%" />
+</p>
+---
 
 ### 📊 My Skill Breakdown
 
